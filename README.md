@@ -51,7 +51,7 @@
 
 ### 🏆 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=gruvbox)
 
 ### 📊 Overall Stats
 
