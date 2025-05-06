@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=gruvbox&count_private=true&hide_title=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=gruvbox&langs_count=10&hide_title=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=dracula)
-
----
-
 ## 📈 Activity Overview
 
 ### 🚀 Most Used Languages
