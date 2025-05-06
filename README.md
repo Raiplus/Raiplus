@@ -43,11 +43,28 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=highcontrast)
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=gruvbox&count_private=true&hide_title=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=gruvbox&langs_count=10&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=dracula)
+
+---
+
+## 📈 Activity Overview
+
+### 🚀 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=radical&langs_count=6)
+
+### 🏆 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=radical)
+
+### 📊 Overall Stats
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=radical&count_private=true&hide_title=true&hide=prs)
+
 
 ---
 
