@@ -62,7 +62,7 @@
 
 ---
 
-## 🔧 Current & Upcoming Projects
+## 🔧 Current & Upcoming Updates
 
 ### 🔹 Pokémon Info Guessing Game  
 🗓️ May 7 – May 12  
