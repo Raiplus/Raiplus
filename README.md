@@ -40,10 +40,12 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=tokyonight)  
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=highcontrast)
 
 ---
