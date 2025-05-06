@@ -44,13 +44,15 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raiplus&theme=highcontrast)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiplus&layout=compact&theme=tokyonight)](https://github.com/Raiplus)
+
+[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=tokyonight)](https://github.com/Raiplus)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raiplus&theme=tokyonight)](https://github.com/Raiplus)
 
 ---
 
-## 🔧 Current & Upcoming Projects
+## 🔧 Current & Upcoming Updates
 
 ### 🔹 Pokémon Info Guessing Game  
 🗓️ May 7 – May 12  
