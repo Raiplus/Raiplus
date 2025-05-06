@@ -1,5 +1,3 @@
----
-
 ### Hi there 👋, I'm Raiplus  
 
 Welcome to my GitHub profile! I'm an aspiring **MERN Stack Developer** with a strong foundation in **JavaScript** and a vision to integrate **AI into web development**. I'm currently learning **React** and expanding my backend knowledge with **Express.js & Node.js**.  
@@ -54,3 +52,33 @@ I also have some experience with:
 🚀 **Let's build something amazing together!**  
 
 ---
+
+## 🛠 Upcoming Project Updates
+
+### 1. **Pokémon Info Guessing Game**  
+- **Start Date:** May 7, 2025  
+- **Expected Completion Date:** May 12, 2025  
+- **Updates:**  
+    - Fetch Pokémon data using API.  
+    - Create multiple-choice questions (3-4 options) based on Pokémon information.  
+    - Implement score tracking and user interaction.
+
+### 2. **Password Manager**  
+- **Start Date:** May 16, 2025  
+- **Expected Completion Date:** May 23, 2025  
+- **Updates:**  
+    - Implement password strength indicator.  
+    - Add the ability to securely store passwords and display them to users.  
+    - Add the copy-to-clipboard functionality.
+
+### 3. **Password Generator Updates**  
+- **Start Date:** May 24, 2025  
+- **Expected Completion Date:** May 30, 2025  
+- **Updates:**  
+    - Add a password strength indicator (Weak, Medium, Strong).  
+    - Allow user-defined customization (e.g., password length, character types).  
+    - Integrate the copy-to-clipboard feature and improve UI/UX.
+
+---
+
+**Note:** These deadlines are designed to be achievable while balancing my **college studies**. Each project will be worked on step by step, with enough time allocated to ensure quality improvements. I'll update my repositories with these changes once completed. Stay tuned for progress! 💻🚀
