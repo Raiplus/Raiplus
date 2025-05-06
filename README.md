@@ -48,9 +48,8 @@
 
 [![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiplus&show_icons=true&theme=tokyonight)](https://github.com/Raiplus)
 
-<a href="https://github.com/Raiplus">
-  <img src="https://streak-stats.demolab.com?user=Raiplus&theme=tokyonight" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raiplus&theme=tokyonight)](https://github.com/Raiplus)
+
 
 ---
 
