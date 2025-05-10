@@ -8,6 +8,7 @@
 ## 🚀 About Me
 
 - 🔭 Working on: **Pokémon Info Guessing Game**, **Password Manager**, **Auth + User Dashboard**
+- 💻 Skilled in computer hardware assembly, troubleshooting, and performance optimization.
 - 🌱 Currently learning: **React**, **MongoDB Advanced**, **JWT + bcrypt**
 - 💡 Interested in: **AI-powered full-stack apps**, **Open Source**, **Internships**
 - 🎯 2025 Goals: Crack a dev internship 💼, Contribute to OSS, Polish DSA
