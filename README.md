@@ -1,4 +1,5 @@
 # 👋 Hi there! I'm Rishabh Singh Rajawat (aka Raiplus)
+# On brake 
 
 🎓 B.Tech (Mathematics & Computing) | 💻 Aspiring MERN Stack Dev | 🤖 AI x Web Enthusiast  
 📍 Learning by building | 🔐 Focused on Auth, Security & Scalable Web Apps  
