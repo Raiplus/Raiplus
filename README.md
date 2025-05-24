@@ -43,7 +43,7 @@
 ---
 ## 🏆 Featured Projects
 
-### 🎯 [PokéSeek - Pokémon Guessing Game](https://github.com/Raiplus/Pok-Seek)  
+### 🎯 [PokéSeek - Pokémon Guessing Game](https://pok-seek.onrender.com)  
 **Status: ✅ Completed (June 2025)**  
 *Vanilla JS | PokéAPI | MongoDB*  
 
