@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Rishabh Singh Rajawat (aka Raiplus)
-# On brake 
+
 
 🎓 B.Tech (Mathematics & Computing) | 💻 Aspiring MERN Stack Dev | 🤖 AI x Web Enthusiast  
 📍 Learning by building | 🔐 Focused on Auth, Security & Scalable Web Apps  
@@ -41,26 +41,49 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva)
 
 ---
+## 🏆 Featured Projects
 
-## 🛠 Projects
+### 🎯 [PokéSeek - Pokémon Guessing Game](https://github.com/Raiplus/Pok-Seek)  
+**Status: ✅ Completed (June 2025)**  
+*Vanilla JS | PokéAPI | MongoDB*  
 
-### 🎮 [PokéSeek - Pokémon Info Guessing Game](https://github.com/Raiplus/Pok-Seek/blob/main/README.md)  
-A browser-based guessing game built using HTML, CSS, JavaScript & PokéAPI.  
-🔹 Features: Image blurring, MCQ options, LocalStorage high score  
-🔹 Status: 🟡 In Progress  
-🗓️ Timeline: May 7 – May 14  
+**Key Features:**  
+✔ 1025 Gen I-XI Pokémon  
+✔ Live leaderboard
+✔ Mobile-responsive design  
+
+**Final Stats:**  
+- Surved multiple players  
+- 4.8/5 average rating  
+
+---
+
+## 🛠 Tech Stack (Used in PokéSeek)
+
+| Frontend       | Backend        | Data          |
+|----------------|----------------|---------------|
+| HTML5          | Node.js        | PokéAPI       |
+| CSS3           | Express.js     | MongoDB Atlas |
+| Vanilla JS     | JWT Auth       | FS Module     |
+
+
+
+---
+
+## 🛠 Ongoin Projects
+
+
 
 ### 🔐 [Password Generator - A simple password generator](https://github.com/Raiplus/Password-Generator-/blob/main/Readme.md#password-generator-)    
 Securely store, display, and manage your passwords.  
 🔹 Features: Allows users to create Easy, Medium, and Strong passwords ,and store Password in localStorage  
 🔹 Status: 🟡 In Progress  
-🗓️ Timeline: May 14 – May 22 
 
 ### 👤  [Auth-User-Dashboard - A user authentication and dashboard system.](https://github.com/Raiplus/-Auth-User-Dashboard/blob/main/Readme.md)    
 A role-based user management system with full-stack security.  
 🔹 Features: This project includes user registration, login, token-based authentication, and a simple user dashboard   
 🔹 Status: 🟡 In Progress  
-🗓️ Timeline: May 22 – May 30  
+
 
 ---
 
