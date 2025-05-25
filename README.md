@@ -112,7 +112,7 @@ A role-based user management system with full-stack security.
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-singh-rajawat-5a1b782bb)  
-📧 rishabhsinghrajawat.dev@gmail.com.
+📧 rishabhsinghrajawat.dev@gmail.com    
 🌐 [GitHub Profile](https://github.com/Raiplus)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Raiplus&label=Profile%20views&color=0e75b6&style=flat)
